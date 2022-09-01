@@ -1,4 +1,4 @@
-# Contributing to epiforecasts.r-universe.dev
+# Contributing to eppinowcast.r-universe.dev
 
 Any addition or modification to this repository, and in particular to the
 files `packages.json` or `schema.json` should be made via a pull request.

@@ -1,71 +1,7 @@
 [
   {
-    "package": "EpiSoon",
-    "url": "https://github.com/epiforecasts/EpiSoon"
-  },
-  {
-    "package": "EpiNow",
-    "url": "https://github.com/epiforecasts/EpiNow"
-  },
-  {
     "package": "epinowcast",
-    "url": "https://github.com/epiforecasts/epinowcast",
-    "display_website": true
-  },
-  {
-    "package": "EpiNow2",
-    "url": "https://github.com/epiforecasts/EpiNow2",
-    "display_website": true
-  },
-  {
-    "package": "RtD3",
-    "url": "https://github.com/epiforecasts/RtD3"
-  },
-  {
-    "package": "covidregionaldata",
-    "url": "https://github.com/epiforecasts/covidregionaldata",
-    "display_website": true
-  },
-  {
-    "package": "covid19.nhs.data",
-    "url": "https://github.com/epiforecasts/covid19.nhs.data",
-    "display_website": true
-  },
-  {
-    "package": "scoringutils",
-    "url": "https://github.com/epiforecasts/scoringutils",
-    "display_website": true
-  },
-  {
-    "package": "idbrms",
-    "url": "https://github.com/epiforecasts/idbrms"
-  },
-  {
-    "package": "covid19.forecasts.uk",
-    "url": "https://github.com/epiforecasts/covid19.forecasts.uk"
-  },
-  {
-    "package": "forecast.vocs",
-    "url": "https://github.com/epiforecasts/forecast.vocs"
-  },
-  {
-    "package": "socialmixr",
-    "url": "https://github.com/epiforecasts/socialmixr",
-    "display_website": true
-  },
-  {
-    "package": "epimixr",
-    "url": "https://github.com/sbfnk/epimixr",
-    "display_website": true
-  },
-  {
-    "package": "rbi",
-    "url": "https://github.com/sbfnk/RBi",
-    "display_website": true
-  },
-  {
-    "package": "rbi.helpers",
-    "url": "https://github.com/sbfnk/rbi.helpers",
+    "url": "https://github.com/epinowcast/epinowcast",
     "display_website": true
   }
 ]
