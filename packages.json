@@ -2,6 +2,7 @@
   {
     "package": "epinowcast",
     "url": "https://github.com/epinowcast/epinowcast",
+    "branch" : "*release",
     "display_website": true
   }
 ]
