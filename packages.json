@@ -4,5 +4,11 @@
     "url": "https://github.com/epinowcast/epinowcast",
     "branch" : "*release",
     "display_website": true
+  },
+  {
+    "package": "hashprng",
+    "url": "https://github.com/epinowcast/hashprng",
+    "branch" : "*release",
+    "display_website": true
   }
 ]
