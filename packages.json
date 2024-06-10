@@ -11,4 +11,10 @@
     "branch" : "*release",
     "display_website": true
   }
+  {
+    "package": "epidist",
+    "url": "https://github.com/epinowcast/epidist",
+    "branch" : "*release",
+    "display_website": true
+  }
 ]
