@@ -10,7 +10,7 @@
     "url": "https://github.com/epinowcast/hashprng",
     "branch" : "*release",
     "display_website": true
-  }
+  },
   {
     "package": "epidist",
     "url": "https://github.com/epinowcast/epidist",
