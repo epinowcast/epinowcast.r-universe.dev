@@ -16,5 +16,11 @@
     "url": "https://github.com/epinowcast/epidist",
     "branch" : "*release",
     "display_website": true
+  },
+  {
+    "package": "primarycensoreddist",
+    "url": "https://github.com/epinowcast/primarycensoreddist",
+    "branch" : "*release",
+    "display_website": true
   }
 ]
