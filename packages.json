@@ -18,7 +18,7 @@
     "display_website": true
   },
   {
-    "package": "primarycensoreddist",
+    "package": "primarycensored",
     "url": "https://github.com/epinowcast/primarycensoreddist",
     "branch" : "*release",
     "display_website": true
