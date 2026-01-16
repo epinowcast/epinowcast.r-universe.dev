@@ -22,5 +22,11 @@
     "url": "https://github.com/epinowcast/primarycensored",
     "branch" : "*release",
     "display_website": true
+  },
+  {
+    "package": "baselinenowcast",
+    "url": "https://github.com/epinowcast/baselinenowcast",
+    "branch" : "*release",
+    "display_website": true
   }
 ]
